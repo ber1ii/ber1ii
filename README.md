@@ -13,23 +13,27 @@
 
 🚀 Forging interactive systems at the intersection of design and code.
 
-──────────────────────────────────────────────────────────────────────────────────────────
-> **LOG_ENTRY:** Programming since age 14. Currently finalizing degree.
-> **MISSION:** Constructing software that is visually engaging and solving real-life problems.
-> **PROTOCOL:** No templates. Architecture, logic, visuals, and UX built from the ground up.
-──────────────────────────────────────────────────────────────────────────────────────────
+─────────────────────────────────────────────
+> **LOG_ENTRY:** Programming since age 14. Currently finalizing degree. <br />
+> **MISSION:** Constructing software that is visually engaging and solving real-life problems. <br />
+> **PROTOCOL:** No templates. Architecture, logic, visuals, and UX built from the ground up. <br />
+─────────────────────────────────────────────
 
 
 ### 🛰️ Featured System — Chrome_Rebellion
 
-<div align="center">
-    <p>A cyberpunk slot machine simulator inspired by Gates of Olympus. Cascading wins, multipliers, animated UI, and custom game logic.</p>
+<div align="left">
+  <p>A cyberpunk slot machine simulator inspired by Gates of Olympus. Cascading wins, multipliers, animated UI, and custom game logic.</p>
+  <br />
 
-    <img src="assets/chrome_rebellion.gif" alt="Chrome Rebellion Gameplay Preview" width="100%" />
+  <img src="assets/chrome_rebellion.gif" alt="Chrome Rebellion Gameplay Preview" width="100%" />
+  <br />
 
-    [![Live Demo](https://img.shields.io/badge/🔗_Live_Demo-000000?style=for-the-badge&logoColor=white)](https://chromerebellion.vercel.app)
+  [![Live Demo](https://img.shields.io/badge/🔗_Live_Demo-000000?style=for-the-badge&logoColor=white)](https://chromerebellion.vercel.app)
+  <br />
 
-    [![Source Code](https://img.shields.io/badge/💾_Source_Code-000000?style=for-the-badge&logoColor=white)](https://github.com/ber1ii/slots-casino)
+  [![Source Code](https://img.shields.io/badge/💾_Source_Code-000000?style=for-the-badge&logoColor=white)](https://github.com/ber1ii/slots-casino)
+  <br />
 </div>
 
 ### ⚡ System Modules (Key Features)
@@ -48,7 +52,7 @@
 
 
 ### 🛠️ Tech Stack / Applied Systems
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/Vite-000000?style=for-the-badge&logo=vite&logoColor=646CFF" alt="Vite" />
   <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/Tailwind-000000?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4" alt="Tailwind" />
@@ -58,6 +62,6 @@
 </p>
 
 ──────────────────────────────
-> **END_SESSION**
-> **STATUS:** ENDING_SESSION
+> **END_SESSION** <br />
+> **STATUS:** ENDING_SESSION <br />
 ──────────────────────────────

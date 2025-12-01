@@ -17,6 +17,7 @@
 > **LOG_ENTRY:** Programming since age 14. Currently finalizing degree. <br />
 > **MISSION:** Constructing software that is visually engaging and solving real-life problems. <br />
 > **PROTOCOL:** No templates. Architecture, logic, visuals, and UX built from the ground up. <br />
+<br />
 ─────────────────────────────────────────────
 
 
@@ -64,4 +65,5 @@
 ──────────────────────────────
 > **END_SESSION** <br />
 > **STATUS:** ENDING_SESSION <br />
+<br />
 ──────────────────────────────

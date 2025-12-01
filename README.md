@@ -24,7 +24,8 @@
 ### 🛰️ Featured System — Chrome_Rebellion
 
 <div align="left">
-  <p>A cyberpunk slot machine simulator inspired by Gates of Olympus. Cascading wins, multipliers, animated UI, and custom game logic.</p>
+  <p>A cyberpunk slot machine simulator inspired by Gates of Olympus.</p>
+  <p>Cascading wins, multipliers, animated UI, and custom game logic.</p>
   <br />
 
   <img src="assets/chrome_rebellion.gif" alt="Chrome Rebellion Gameplay Preview" width="100%" />

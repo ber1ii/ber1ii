@@ -36,7 +36,7 @@ PROTOCOL:  No templates. Architecture, logic, visuals and UX built from scratch.
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F0FF,100:FF2A6D&height=2&section=header" width="100%" alt="divider" />
 
-## 🛰️ FEATURED SYSTEM // Litany of the Hollow God
+## 🕯️ FEATURED SYSTEM // Litany of the Hollow God
 
 <div align="center">
 

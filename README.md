@@ -163,15 +163,6 @@ PROTOCOL:  No templates. Architecture, logic, visuals and UX built from scratch.
 | **Data & infra** | PostgreSQL, Redis, Docker, Git, Linux (Arch/Manjaro), CI/CD basics |
 | **AI workflows** | Local LLMs (Ollama), AI-assisted coding, local image generation |
 
-## 📡 TELEMETRY
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ber1ii&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=FF2A6D&text_color=C9D1D9&ring_color=9D4EDD" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ber1ii&layout=compact&hide_border=true&bg_color=0D1117&title_color=00F0FF&text_color=C9D1D9" alt="Top languages" />
-
-</div>
-
 ## 📨 OPEN CHANNEL
 
 <div align="center">
